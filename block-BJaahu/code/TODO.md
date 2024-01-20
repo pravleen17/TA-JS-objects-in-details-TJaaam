@@ -10,6 +10,7 @@
 
 ### Create the object using the following ways
 
+
 For each different ways of creating object write different solutions.
 
 - Prototypal pattern of object creation (Put methods inside an object and create object using Object.create)
