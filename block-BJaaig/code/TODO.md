@@ -1,5 +1,6 @@
 ## Find the output
 
+
 For the give code below write the output/error along with the reason!
 
 ```js
