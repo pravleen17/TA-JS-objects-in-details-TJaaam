@@ -2,6 +2,7 @@ We will be creating a quiz app in this section step-by-step. Follow the steps be
 
 1. Quiz is a collection of Questions.
 2. Question will need `Title`, `Options` and `Correct Answer`
+3. 
 
 ### Make a Question class with these data and methods:
 
